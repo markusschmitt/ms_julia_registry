@@ -4,3 +4,4 @@ repo = "https://github.com/markusschmitt/ms_julia_registry.git"
 description = "Private registry - markusschmitt"
 
 [packages]
+f439a387-2a26-4d1c-b474-cff597991b60 = { name = "MINE", path = "M/MINE" }
