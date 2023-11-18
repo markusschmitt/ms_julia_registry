@@ -1,0 +1,6 @@
+name = "MSJuliaRegistry"
+uuid = "2e0ec2e9-d512-4c27-9171-a609a5f127ac"
+repo = "https://github.com/markusschmitt/ms_julia_registry.git"
+description = "Private registry - markusschmitt"
+
+[packages]
